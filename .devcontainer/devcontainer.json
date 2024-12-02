@@ -21,9 +21,10 @@
 		"vscode": {
 			"extensions": [
 				"rust-lang.rust-analyzer",
-				"serayuzgur.crates",
+				"fill-labs.dependi",
 				"vadimcn.vscode-lldb",
-				"vscodevim.vim"
+				"vscodevim.vim",
+				"tamasfe.even-better-toml"
 			]
 		}
 	},
